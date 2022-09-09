@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - entry point
- *   *
- *    * Return: 0    
+ *  * main - start point
+ *   * run command
+ *    * Return: 0
+ *    *
  */
 int main(void)
 {
